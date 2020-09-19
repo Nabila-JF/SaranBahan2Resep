@@ -20,6 +20,7 @@ public class SaranBahan2Resep {
         System.out.println("Identitas: "+identitas);
         // \n = new line / garis baru
         System.out.print("\nSaran Resep Dari Bahan Milik Anda\n");
+        
     }
     
 }
